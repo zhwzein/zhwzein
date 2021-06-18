@@ -23,7 +23,7 @@ I'm passionated about nothing 🗿.
        <a href="https://www.instagram.com/zhwzein/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=instagram"></a>  
        <a href="https://twitter.com/zhwzein/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=twitter"></a>  
        <a href="https://www.facebook.com/zhwzein.me/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=facebook"></a>  
-  </div
+  </div>
 
 
 </details>
