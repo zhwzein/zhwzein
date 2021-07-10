@@ -1,4 +1,4 @@
-# ZAHWAZEIN'S <img src="https://media.tenor.com/images/33e555b1839136e3dbe3b536ac0f0441/tenor.gif" width="100"> PROFILE  
+# ZAHWAZEIN'S <img src="https://media.tenor.com/images/9e294084b51c743b04ec4c8061523adb/tenor.gif" width="100">PROFILE  
 
 Hi, I'm Zein, I'm 19.
 <br>
@@ -17,7 +17,7 @@ I'm passionated about nothing 🗿.
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
   
-  <img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"><br>  
+  <a href="https://zenzapi.xyz/" target="_blank"><img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"></a><br>  
   <div align="left">
        <a href="https://github.com/zhwzein/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=github"></a>  
        <a href="https://www.instagram.com/zhwzein/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=instagram"></a>  
