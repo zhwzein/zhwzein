@@ -1,6 +1,6 @@
 # ZAHWAZEIN'S <img src="https://media.tenor.com/images/9e294084b51c743b04ec4c8061523adb/tenor.gif" width="100">PROFILE  
 
-Hi, I'm Zein, I'm 19.
+Hello Lord, I'm Zein
 <br>
 I'm passionated about nothing 🗿.
 <br>
