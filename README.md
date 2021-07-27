@@ -14,9 +14,9 @@ I'm passionated about nothing 🗿.
 </details>
 
 <!-- github -->
-<details><summary><b>Gatau</b></summary><br>
+<details><summary><b>Random</b></summary><br>
   
-- [Caca](https://zhwzein.github.io/caca/) 
+- <a href="https://zhwzein.github.io/caca/" target="_blank">Caca</a>
 </details>
 
 
