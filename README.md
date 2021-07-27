@@ -16,7 +16,8 @@ I'm passionated about nothing 🗿.
 <!-- github -->
 <details><summary><b>Random</b></summary><br>
   
-- <a href="https://zhwzein.github.io/caca/" target="_blank">Caca</a>
+- [Caca](https://zhwzein.github.io/caca/)  
+- [Bucin](https://zhwzein.github.io/bucin/)  
 </details>
 
 
