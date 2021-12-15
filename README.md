@@ -1,8 +1,8 @@
-# ZAHWAZEIN'S <img src="https://media.tenor.com/images/9e294084b51c743b04ec4c8061523adb/tenor.gif" width="100">PROFILE  
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> ZAHWAZEIN'S PROFILE  
 
-Hello Lord, I'm Zein
+I'm Zein
 <br>
-I'm passionated about nothing 🗿.
+I'm passionated about nothing. thx
 <br>
 
 <!-- Stats -->
@@ -12,14 +12,6 @@ I'm passionated about nothing 🗿.
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhwzein&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhwzein&theme=dark)](https://git.io/streak-stats)  
 </details>
-
-<!-- github -->
-<details><summary><b>Random</b></summary><br>
-  
-- [Caca](https://zhwzein.github.io/caca/)  
-- [Bucin](https://zhwzein.github.io/bucin/)  
-</details>
-
 
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
