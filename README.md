@@ -16,7 +16,7 @@ I'm passionated about nothing. thx
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
   
-  <a href="https://zenzapi.xyz/" target="_blank"><img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"></a><br>  
+  <a href="https://zenzapis.xyz/" target="_blank"><img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"></a><br>  
   <div align="left">
        <a href="https://github.com/zhwzein/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=github"></a>  
        <a href="https://www.instagram.com/zhwzein/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=instagram"></a>  
