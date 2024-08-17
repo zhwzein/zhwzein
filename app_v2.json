@@ -9,7 +9,7 @@
     },
     "nenimev2": {
         "version": "2.4.2",
-        "maintenance": true
+        "maintenance": false
     },
     "wabotz": {
         "version": "6.6.0",
