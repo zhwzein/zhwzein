@@ -1,42 +1,42 @@
 {
     "nextdownloader": {
         "version": "2.3.0",
-        "maintenance": false
+        "maintenance": true
     },
     "nenime": {
         "version": "2.5.0",
-        "maintenance": false
+        "maintenance": true
     },
     "nekomik": {
         "version": "2.2.9",
-        "maintenance": false
+        "maintenance": true
     },
     "nenimev2": {
         "version": "2.4.2",
-        "maintenance": false
+        "maintenance": true
     },
     "wabotz": {
         "version": "7.0.0",
-        "maintenance": false
+        "maintenance": true
     },
     "doujinz": {
         "version": "2.2.8",
-        "maintenance": false
+        "maintenance": true
     },
     "komikz": {
         "version": "1.1.1",
-        "maintenance": false
+        "maintenance": true
     },
     "animestream": {
         "version": "1.2.1",
-        "maintenance": false
+        "maintenance": true
     },
     "app": {
         "version": "1.2.5",
-        "maintenance": false
+        "maintenance": true
     },
     "tiktok_downloader": {
         "version": "2.3.0",
-        "maintenance": false
+        "maintenance": true
     }
 }
