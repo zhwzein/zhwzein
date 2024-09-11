@@ -1,4 +1,8 @@
 {
+    "nextai": {
+        "version": "1.2.0",
+        "maintenance": false
+    },
     "nextquran": {
         "version": "1.2.0",
         "maintenance": false
