@@ -1,4 +1,8 @@
 {
+    "animeverse": {
+        "version": "1.2.0",
+        "maintenance": false
+    },
     "nextai": {
         "version": "1.2.0",
         "maintenance": false
